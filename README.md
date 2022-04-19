@@ -2,7 +2,9 @@
 
 - 🔥 Curently working as a Computing Technician, trying to migrate to a programming career.
 
-- 🔭 I’m currently working at [Artivinco](https://www.artivinco.com.br)
+- 📚 Studying HTML, CSS, JS and Node on free time.
+
+- 🔭 Currently working at [Artivinco](https://www.artivinco.com.br)
 
 - 🕺🏼 I'm a dancer on my free time.
 
