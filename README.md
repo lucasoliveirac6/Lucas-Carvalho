@@ -6,7 +6,6 @@
 
 - 🕺🏼 I'm a dancer on my free time.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, Python**
 
 <br>
 
